@@ -2,7 +2,8 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá! Sou Gabriel Debossan, tenho 19 anos e sou de Maringá/PR. Atualmente, estou cursando Engenharia de Software na UniCesumar e sou apaixonado por tecnologia e desenvolvimento web. No meu canal no YouTube [DevGass](https://www.youtube.com/@devdebossan), compartilho projetos, tutoriais e dicas para quem quer aprender mais sobre o mundo do desenvolvimento.
+Olá! Sou Gabriel Debossan, tenho 19 anos e sou de Maringá/PR. Atualmente, estou cursando Engenharia de Software na UniCesumar e sou apaixonado por tecnologia e desenvolvimento web. No meu canal no YouTube [Gabriel Debossan
+](https://www.youtube.com/@devdebossan), compartilho projetos, tutoriais e dicas para quem quer aprender mais sobre o mundo do desenvolvimento.
 
 <p align="left">
     <a href="https://www.youtube.com/@devdebossan?sub_confirmation=1">
