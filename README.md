@@ -2,17 +2,17 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá! Sou Gabriel Debossan, tenho 19 anos e sou de Maringá/PR. Atualmente, estou cursando Engenharia de Software na UniCesumar e sou apaixonado por tecnologia e desenvolvimento web. No meu canal no YouTube [Gabriel Debossan](https://www.youtube.com/@GabrielDebossan), compartilho projetos, tutoriais e dicas para quem quer aprender mais sobre o mundo do desenvolvimento.
+Olá! Sou Gabriel Debossan, tenho 19 anos e sou de Maringá/PR. Atualmente, estou cursando Engenharia de Software na UniCesumar e sou apaixonado por tecnologia e desenvolvimento web. No meu canal no YouTube [DevGass](https://www.youtube.com/@devdebossan), compartilho projetos, tutoriais e dicas para quem quer aprender mais sobre o mundo do desenvolvimento.
 
 <p align="left">
-    <a href="https://www.youtube.com/@GabrielDebossan?sub_confirmation=1">
+    <a href="https://www.youtube.com/@devdebossan?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
             title="Inscreva-se no meu canal" 
             src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
         />
     </a>
-    <a href="https://www.youtube.com/@GabrielDebossan">
+    <a href="https://www.youtube.com/@devdebossan">
         <img 
             alt="youtube views" 
             title="Vizualizações no YouTube" 
