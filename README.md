@@ -1,105 +1,44 @@
-# 👩🏻‍💻 Gabriel Debossan
+<h1 align="center">Hello, I'm Gabriel Debossan 👋</h1>
 
-**`Desenvolvedor FullStack`**
-
-Olá! Sou Gabriel Debossan, tenho 19 anos e sou de Maringá/PR. Atualmente, estou cursando Engenharia de Software na UniCesumar e sou apaixonado por tecnologia e desenvolvimento web. No meu canal no YouTube [Gabriel Debossan
-](https://www.youtube.com/@devdebossan), compartilho projetos, tutoriais e dicas para quem quer aprender mais sobre o mundo do desenvolvimento.
-
-<p align="left">
-    <a href="https://www.youtube.com/@devdebossan?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@devdebossan">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/gdebossan?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/gdebossan?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/gdebossan?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/gdebossan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
+<p align="center">
+  <em>Full Stack Developer • Tech Content Creator • Computer Engineering Student</em>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+<p align="center">
+  <img src="cosmos.gif" alt="AI Generated Background" width="50%" />
+</p>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<p align="center">
+  I'm passionate about technology, learning, and sharing knowledge.  
+  Here you’ll find my projects, tutorials, and study experiments with Web Development, JavaScript, React, and more.
+</p>
 
-<br/>
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrieldebossan/">
+    <img src="https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/@devdebossan">
+    <img src="https://img.shields.io/badge/-YouTube-6633cc?style=flat-square&logo=YouTube&logoColor=white">
+  </a>
+  <a href="mailto:gabrielhenrique.db02@gmail.com">
+    <img src="https://img.shields.io/badge/-gabrielhenrique.db02@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+</p>
 
-### 📊 Estatísticas
+---
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=gdebossan&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+### 👨‍💻 About Me
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdebossan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+- 🎓 Computer Engineering student at UniCesumar
+- 🌱 Currently learning Full Stack Development (React, Node.js, TypeScript)
+- 🎥 I create programming content on [YouTube](https://www.youtube.com/@devdebossan)
+- 💡 Passionate about sharing what I learn to help other developers grow
+- ⚡ Fun fact: I love playing guitar and studying the Bible
 
+---
+
+<p align="center">
+  <img width="41%" src="https://github-readme-streak-stats.herokuapp.com/?user=gdebossan&theme=midnight-purple&hide_border=true" />
 </p>
