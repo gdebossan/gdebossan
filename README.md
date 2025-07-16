@@ -22,8 +22,8 @@
   <a href="https://www.youtube.com/@devdebossan">
     <img src="https://img.shields.io/badge/-YouTube-6633cc?style=flat-square&logo=YouTube&logoColor=white">
   </a>
-  <a href="mailto:gabrielhenrique.db02@gmail.com">
-    <img src="https://img.shields.io/badge/-gabrielhenrique.db02@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white">
+  <a href="mailto:gabrieldebossan.contact@gmail.com">
+    <img src="https://img.shields.io/badge/-gabrieldebossan.contact@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white">
   </a>
 </p>
 
