@@ -1,44 +1,18 @@
-<h1 align="center">Hello, I'm Gabriel Debossan 👋</h1>
+# <samp>Gabriel Debossan</samp><img src="https://github.com/gdebossan/gdebossan/blob/master/assets/mario_hello_big.gif" width="30px" height="30px">
 
-<p align="center">
-  <em>Full Stack Developer • Tech Content Creator • Computer Engineering Student</em>
-</p>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C&link=https://www.linkedin.com/in/gabrieldebossan/)](https://www.linkedin.com/in/gabrieldebossan/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-%23E4405F.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C&link=mailto:gabrieldebossan.contact@gmail.com)](mailto:gabrieldebossan.contact@gmail.com)
 
----
+## <samp>Hello World!</samp> <img src="https://github.com/gdebossan/gdebossan/blob/master/assets/earth.gif" width="22px" height="22px">
 
-<p align="center">
-  <img src="cosmos.gif" alt="AI Generated Background" width="50%" />
-</p>
+<samp>I'm a **Software Engineer in Brazil** 🇧🇷, passionate about solving problems with technology and building solutions that make people's lives easier.</samp>
 
-<p align="center">
-  I'm passionate about technology, learning, and sharing knowledge.  
-  Here you’ll find my projects, tutorials, and study experiments with Web Development, JavaScript, React, and more.
-</p>
+<samp>I'm currently focused on **Full Stack development** with **React, Node.js and TypeScript**, and I enjoy sharing what I learn along the way — because I truly believe that **"people need people".**</samp>&nbsp;👨‍💻&nbsp;🚀
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabrieldebossan/">
-    <img src="https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white">
-  </a>
-  <a href="https://www.youtube.com/@devdebossan">
-    <img src="https://img.shields.io/badge/-YouTube-6633cc?style=flat-square&logo=YouTube&logoColor=white">
-  </a>
-  <a href="mailto:gabrieldebossan.contact@gmail.com">
-    <img src="https://img.shields.io/badge/-gabrieldebossan.contact@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white">
-  </a>
-</p>
+- 💻&nbsp;<samp>Currently learning and building real projects with React, Node.js and TypeScript.</samp>
+- 🎓&nbsp;<samp>Computer Engineering student at UniCesumar.</samp>
+- 💡&nbsp;<samp>I love sharing what I learn to help other developers grow.</samp>
+- ⚽&nbsp;<samp>Passionate about football, **São Paulo Futebol Clube (Brazil)** 🔴⚫️⚪️</samp>
+- 🎸&nbsp;<samp>I love playing guitar.</samp>
 
 ---
-
-### 👨‍💻 About Me
-
-- 🎓 Computer Engineering student at UniCesumar
-- 🌱 Currently learning Full Stack Development (React, Node.js, TypeScript)
-- 🎥 I create programming content on [YouTube](https://www.youtube.com/@devdebossan)
-- 💡 Passionate about sharing what I learn to help other developers grow
-- ⚡ Fun fact: I love playing guitar and studying the Bible
-
----
-
-<p align="center">
-  <img width="41%" src="https://github-readme-streak-stats.herokuapp.com/?user=gdebossan&theme=midnight-purple&hide_border=true" />
-</p>
