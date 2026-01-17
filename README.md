@@ -14,7 +14,6 @@
 - 🎓&nbsp;<samp>Computer Engineering student at UniCesumar.</samp>
 - 💡&nbsp;<samp>I love sharing what I learn to help other developers grow.</samp>
 - 🏡&nbsp;<samp>I love being with my family and friends, they are everything to me.</samp>
-
 - ⚽&nbsp;<samp>Passionate about football, **São Paulo Futebol Clube (Brazil)** 🔴⚫️⚪️</samp>
 - 🎸&nbsp;<samp>I love playing guitar.</samp>
 
