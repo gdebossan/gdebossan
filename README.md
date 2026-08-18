@@ -17,4 +17,11 @@
 - ⚽&nbsp;<samp>Passionate about football, **São Paulo Futebol Clube (Brazil)** 🔴⚫️⚪️</samp>
 - 🎸&nbsp;<samp>I love playing guitar.</samp>
 
+
+
 ---
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gdebossan&theme=shadow-green" alt="gdebossan" /></p>
+
+
