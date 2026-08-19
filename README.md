@@ -1,8 +1,16 @@
 <div align="center">
 
-# Gabriel Debossan
+<h1>
+  Gabriel Debossan
+  <img
+    src="https://raw.githubusercontent.com/gdebossan/gdebossan/main/assets/mario_hello_big.gif"
+    width="30"
+    height="30"
+    alt="Mario waving"
+  />
+</h1>
 
-<strong>Software Engineer · Full Stack Developer</strong> 🇧🇷
+<strong>Software Engineer · Full Stack Developer</strong>
 
 Building web applications with **React, Node.js and TypeScript**.
 
@@ -11,8 +19,6 @@ Building web applications with **React, Node.js and TypeScript**.
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-238636?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](https://wa.me/5544997661843)
 
 </div>
-
----
 
 ## About Me
 
@@ -33,6 +39,7 @@ I'm a Software Engineer from Brazil, passionate about building reliable and usef
   <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=2F81F7" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=E6EDF3" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=3FB950" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=2F81F7" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=2F81F7" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Socket.IO-0D1117?style=for-the-badge&logo=socketdotio&logoColor=E6EDF3" alt="Socket.IO" />
 </p>
