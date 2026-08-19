@@ -54,8 +54,5 @@ When I'm not coding, you'll probably find me:
 ## GitHub Activity
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=gdebossan&theme=github-dark&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com/?user=gdebossan&theme=github-dark"/>
 </p>
