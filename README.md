@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="40%" align="center" valign="middle">
-      <img src="assets/Spiderman.gif" width="368" alt="Spiderman"/>
+      <img src="assets/Spiderman.gif" width="200" alt="Spiderman"/>
     </td>
     <td width="60%" valign="middle">
       <h3>About the human behind the code:</h3>
