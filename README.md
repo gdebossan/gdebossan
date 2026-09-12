@@ -40,6 +40,6 @@
 ## 📊 GitHub Activity
 
 <div align="left">
-  <img height="165" src="https://streak-stats.demolab.com?user=gdebossan&theme=dark&border_radius=8&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true" alt="Gabriel Debossan GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gdebossan&layout=compact&theme=dark" alt="Gabriel Debossan Most Used Languages" />
+  <img width="355" height="140" src="https://streak-stats.demolab.com?user=gdebossan&theme=dark&border_radius=8&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true" alt="Gabriel Debossan GitHub Stats" />
+  <img width="355" height="140" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gdebossan&layout=compact&theme=dark&card_width=355" alt="Gabriel Debossan Most Used Languages" />
 </div>
