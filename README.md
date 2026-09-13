@@ -1,11 +1,11 @@
 # Hi👋🏽 I’m Gabriel, a Software Engineer!
 
-<table>
+<table width="100%" align="center">
   <tr>
-    <td width="40%" align="center" valign="middle">
-      <img src="assets/Spiderman.gif" width="230" alt="Spiderman"/>
+    <td width="330" align="center" valign="middle">
+      <img src="assets/Spiderman.gif" width="300" alt="Spiderman"/>
     </td>
-    <td width="60%" valign="middle">
+    <td width="510" valign="middle">
       <h3>About the human behind the code:</h3>
       <ul>
         <li>🌎 I'm a 20-year-old Brazilian developer from Maringá.</li>
@@ -22,13 +22,13 @@
 
 <table width="100%">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="410">
       <h3>Backend</h3>
       <img src="https://skillicons.dev/icons?i=nodejs,ts,js,express&theme=dark" alt="Backend technologies" />
       <h3>Frontend</h3>
       <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=dark" alt="Frontend technologies" />
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="410">
       <h3>Databases</h3>
       <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Databases" />
       <h3>Cloud • Tools</h3>
@@ -39,7 +39,7 @@
 
 ## 📊 GitHub Activity
 
-<div align="left">
-  <img width="355" height="140" src="https://streak-stats.demolab.com?user=gdebossan&theme=dark&border_radius=8&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true" alt="Gabriel Debossan GitHub Stats" />
-  <img width="355" height="140" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gdebossan&layout=compact&theme=dark&card_width=355" alt="Gabriel Debossan Most Used Languages" />
+<div align="center">
+  <img width="410" height="205" src="https://streak-stats.demolab.com?user=gdebossan&theme=dark&border_radius=8&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true&card_width=410&card_height=205" alt="Gabriel Debossan GitHub Stats" />
+  <img width="410" height="205" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gdebossan&theme=dark&card_width=410" alt="Gabriel Debossan Most Used Languages" />
 </div>
