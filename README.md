@@ -18,7 +18,7 @@
   </tr>
 </table>
 
-## ⚙️ Tech Stack
+## 🛠️ Tech Stack
 
 <table width="100%">
   <tr>
@@ -26,13 +26,13 @@
       <h3>Backend</h3>
       <img src="https://skillicons.dev/icons?i=nodejs,ts,js,express&theme=dark" alt="Backend technologies" />
       <h3>Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=dark" alt="Frontend technologies" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" alt="Frontend technologies" />
     </td>
     <td valign="top" width="410">
       <h3>Databases</h3>
       <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Databases" />
       <h3>Cloud • Tools</h3>
-      <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vercel,linux&theme=dark" alt="Cloud and development tools" />
+      <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vite,vercel,linux&theme=dark" alt="Cloud and development tools" />
     </td>
   </tr>
 </table>
@@ -40,6 +40,6 @@
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img width="410" height="205" src="https://streak-stats.demolab.com?user=gdebossan&theme=dark&border_radius=8&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true&card_width=410&card_height=205" alt="Gabriel Debossan GitHub Stats" />
-  <img width="410" height="205" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gdebossan&theme=dark&card_width=410" alt="Gabriel Debossan Most Used Languages" />
+  <img width="410" height="205" src="https://streak-stats.demolab.com?user=gdebossan&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=F78166&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&border_radius=8&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_longest_streak=true&card_width=410&card_height=205" alt="Gabriel Debossan GitHub Stats" />
+  <img width="410" height="205" src="https://github-readme-stats.shion.dev/api/top-langs/?username=gdebossan&bg_color=0D1117&border_color=30363D&title_color=F0F6FC&text_color=8B949E&card_width=410" alt="Gabriel Debossan Most Used Languages" />
 </div>
