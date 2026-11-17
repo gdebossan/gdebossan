@@ -8,7 +8,7 @@
     <td width="9999" valign="middle">
       <h3>About the human behind the code:</h3>
       <ul>
-        <li>🌎 I'm a 20-year-old Brazilian developer from Maringá.</li>
+        <li>🌎 I'm a 21-year-old Brazilian developer from Maringá.</li>
         <li>☕ I'm powered by music (and some hot coffee too).</li>
         <li>🎸 I also love playing guitar, sports and video games</li>
         <li>💜 I truly love spending time with my family</li>
